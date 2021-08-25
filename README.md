@@ -1,6 +1,6 @@
 # UI Tech Test
 
-Take the JSON file provided at `localhost:8080/api.json` and generate a question list UI from the data it describes.
+Consume the JSON file provided at `localhost:8080/api.json` and generate a question list UI from the data it describes.
 
 Visually generate something like the image below, using any technology you want. Google is allowed! :)
 
