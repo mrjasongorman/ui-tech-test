@@ -4,6 +4,7 @@
   "description": "Take the JSON file provided and generate a question list UI from the data it describes.",
   "main": "index.js",
   "scripts": {
+    "start": "http-server -c-1 src/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
