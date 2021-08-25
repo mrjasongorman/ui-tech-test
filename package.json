@@ -1,0 +1,19 @@
+{
+  "name": "ui-tech-test",
+  "version": "1.0.0",
+  "description": "Take the JSON file provided and generate a question list UI from the data it describes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjasongorman/ui-tech-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrjasongorman/ui-tech-test/issues"
+  },
+  "homepage": "https://github.com/mrjasongorman/ui-tech-test#readme"
+}
