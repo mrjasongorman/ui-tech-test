@@ -4,6 +4,8 @@ Consume the JSON file provided at `localhost:8080/api.json` and generate a quest
 
 Visually generate something like the image below, using any technology you want. Google is allowed! :)
 
+As a plus add some styling, though not strictly necessary.
+
 ## Setup
 Use a local web server to point to the files in `/src/`
 
